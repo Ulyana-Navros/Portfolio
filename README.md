@@ -4,7 +4,11 @@
 
 ![Фото 250](https://github.com/Ulyana-Navros/Portfolio/assets/139130975/9cfc8f6a-4e4b-498a-88ad-7d49142450eb)
 
-Привет! Меня зовут Ульяна, я начинающий аналитик данных. Подробнее обо мне :arrow_right: <a href="https://github.com/Ulyana-Navros">Ссылка на профиль</a>
+
+  Привет! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
+Меня зовут Ульяна, я начинающий аналитик данных. Подробнее обо мне :arrow_right: <a href="https://github.com/Ulyana-Navros">Ссылка на профиль</a>
 
 В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения и практики.
 <br>
