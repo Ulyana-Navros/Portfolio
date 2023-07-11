@@ -114,19 +114,19 @@
 
 #### <p> Проект 3: Когортный анализ онлайн-кинотеатра с помощью SQL</p>
 
-:arrow_right: <a href="https://github.com/Ulyana-Navros/Project-2/tree/main">Ссылка на проект</a>
+:arrow_right: <a href="https://github.com/Ulyana-Navros/Project-3">Ссылка на проект</a>
 
 ---
 
 #### <p> Проект 4: Построение витрины для модели машинного обучения в банке</p>
 
-:arrow_right: <a href="https://github.com/Ulyana-Navros/Project-2/tree/main">Ссылка на проект</a>
+:arrow_right: <a href="https://github.com/Ulyana-Navros/Project-4">Ссылка на проект</a>
 
 ---
 
 #### <p> Проект 5: Моделирование изменения балансов студентов</p>
 
-:arrow_right: <a href="https://github.com/Ulyana-Navros/Project-2/tree/main">Ссылка на проект</a>
+:arrow_right: <a href="https://github.com/Ulyana-Navros/Project-5">Ссылка на проект</a>
 
 ## Контактная информация
 - Email: ulyana.navros@ya.ru
