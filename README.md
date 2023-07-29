@@ -8,7 +8,7 @@
   Привет! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-Меня зовут Ульяна, я начинающий аналитик данных. Подробнее обо мне :arrow_right: <a href="https://github.com/Ulyana-Navros">Ссылка на профиль</a>
+Меня зовут Ульяна, я аналитик данных. Немного обо мне :arrow_right: <a href="https://github.com/Ulyana-Navros">Ссылка на профиль</a>
 
 В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения и практики.
 <br>
